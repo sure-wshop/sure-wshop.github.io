@@ -10,12 +10,11 @@ description: "Keynote speakers at SuRE @ IJCAI 2026"
 
 *Research Interests:* Embedded Systems, Wearable and Ubiquitous Computing
 
-> Keynote — Morning Session, 9:00–10:00
+> Title: TBA
 
 ---
 
 ### Speaker TBD
-**Afternoon Session**
 
 > To be announced. We are currently in discussion with leading researchers in sustainable AI.
 
