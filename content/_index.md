@@ -3,7 +3,7 @@ title: "SuRE @ IJCAI 2026"
 layout: "home"
 ---
 
-# 1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence
+# 1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026
 
 <span class="workshop-badge">SuRE Workshop @ IJCAI 2026 · Bremen, Germany</span>
 
