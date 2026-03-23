@@ -3,9 +3,13 @@ title: "SuRE @ IJCAI 2026"
 layout: "home"
 ---
 
-# 1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026
-
-<span class="workshop-badge">SuRE Workshop @ IJCAI 2026 · Bremen, Germany</span>
+<div class="hero-banner">
+  <div class="hero-overlay">
+    <h1>1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026</h1>
+    <span class="workshop-badge">SuRE Workshop @ IJCAI 2026, Bremen, Germany</span>
+  </div>
+</div>
+<br> 
 
 Recent progress in AI has been driven by rapid scaling of data, models, and compute—most prominently
 in large language and multimodal models. This trend, however, comes with growing energy, resource,
@@ -53,18 +57,18 @@ All deadlines are <strong>Anywhere on Earth (AoE)</strong>.
 | 📝 Camera-ready deadline | **June 15, 2026** |
 | 🗓️ Workshop day | **August 2026 (TBD)** |
 
----
-
-## Submission Tracks
-
-| Track | Length | Purpose |
-|:---|:---:|:---|
-| **Full Papers** | 7 main + 2 ref | Original research |
-| **Short Papers** | 4 main + 1 ref | Work-in-progress |
-| **Position Papers** | 2 main + 1 ref | Visions & open challenges |
-
 👉 [Full Call for Papers →](/cfp)
 
+<!-- ## Submission Tracks -->
+<!---->
+<!-- | Track | Length | Purpose | -->
+<!-- |:---|:---:|:---| -->
+<!-- | **Full Papers** | 7 main + 2 ref | Original research | -->
+<!-- | **Short Papers** | 4 main + 1 ref | Work-in-progress | -->
+<!-- | **Position Papers** | 2 main + 1 ref | Visions & open challenges | -->
+<!---->
+<!-- 👉 [Full Call for Papers →](/cfp) -->
+<!---->
 ---
 
 ## Sponsored by
