@@ -37,8 +37,8 @@ params:
 
   # --- Color scheme ---
   # Use 'auto', 'light', or 'dark'
-  defaultTheme: auto
-  disableThemeToggle: false
+  defaultTheme: light
+  disableThemeToggle: true
 
   ShowReadingTime: false
   ShowShareButtons: false
