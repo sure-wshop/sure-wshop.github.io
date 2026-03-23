@@ -1,5 +1,5 @@
 /* =============================================
-   SembAI 2026 — Custom Branding
+   SuRE 2026 — Custom Branding
    Color palette: deep green + slate (sustainability theme)
    ============================================= */
 
@@ -150,4 +150,21 @@ a:hover {
   border-radius: 0 6px 6px 0;
   margin: 1rem 0;
   font-weight: 500;
+}
+
+.contact-button {
+  display: inline-block;
+  background: var(--sembai-green);
+  color: white !important;
+  padding: 0.75rem 2rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.contact-button:hover {
+  background: var(--sembai-green-light);
+  transform: translateY(-1px);
 }
