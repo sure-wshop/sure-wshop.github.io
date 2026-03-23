@@ -189,3 +189,14 @@ a:hover {
   background: var(--sembai-green-light);
   transform: translateY(-1px);
 }
+
+.contact-button.disabled {
+  background: #999 !important;
+  cursor: not-allowed !important;
+  pointer-events: none;
+}
+
+.contact-button.disabled:hover {
+  background: #999 !important;
+  transform: none;
+}
