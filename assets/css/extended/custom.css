@@ -152,6 +152,25 @@ a:hover {
   font-weight: 500;
 }
 
+/* --- Countdown timer --- */
+#countdown {
+  background: var(--sembai-bg-light);
+  border: 2px solid var(--sembai-green);
+  border-radius: 8px;
+  padding: 0.8rem 2rem;
+  display: block;
+  min-width: 280px;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.countdown-label {
+  color: var(--sembai-green);
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+
 .contact-button {
   display: inline-block;
   background: var(--sembai-green);
@@ -162,6 +181,8 @@ a:hover {
   font-size: 1rem;
   text-decoration: none;
   transition: background 0.2s, transform 0.1s;
+  min-width: 280px;
+  text-align: center;
 }
 
 .contact-button:hover {
