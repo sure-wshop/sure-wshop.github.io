@@ -1,0 +1,75 @@
+baseURL: "https://sembai-workshop.github.io/"
+title: "SuRE @ IJCAI 2026"
+paginate: 10
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # needed for PaperMod search
+
+params:
+  # --- Branding ---
+  title: "SuRE 2026"
+  description: "1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026"
+  keywords:
+    - Sustainable AI
+    - Efficient AI
+    - Green AI
+    - IJCAI 2026
+    - TinyML
+    - Edge AI
+
+  # --- Social / Links ---
+  socialIcons:
+    - name: email
+      url: "mailto:TODO@dfki.de"
+
+  # --- Color scheme ---
+  # Use 'auto', 'light', or 'dark'
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  # --- Cover image for social sharing ---
+  cover:
+    image: "img/logo.jpg"
+    alt: "SuRE Workshop Logo"
+    relative: false
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: cfp
+      name: Call for Papers
+      url: /cfp/
+      weight: 2
+    - identifier: speakers
+      name: Speakers
+      url: /speakers/
+      weight: 3
+    - identifier: schedule
+      name: Schedule
+      url: /schedule/
+      weight: 4
+    - identifier: organizers
+      name: Organizers
+      url: /organizers/
+      weight: 5
+    - identifier: pc
+      name: Program Committee
+      url: /program-committee/
+      weight: 6
