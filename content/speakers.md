@@ -3,8 +3,6 @@ title: "Invited Speakers"
 description: "Keynote speakers at SuRE @ IJCAI 2026"
 ---
 
-## Confirmed Keynote Speakers
-
 ---
 
 ### Prof. Dr. Paul Lukowicz
@@ -21,6 +19,3 @@ description: "Keynote speakers at SuRE @ IJCAI 2026"
 
 > To be announced. We are currently in discussion with leading researchers in sustainable AI.
 
----
-
-*Interested in giving a keynote? Contact us at [vitor.fortesrey@dfki.de](mailto:vitor.fortesrey@dfki.de)*
