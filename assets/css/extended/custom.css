@@ -10,6 +10,7 @@
   --sembai-accent: #f4a261;
   /* warm accent for highlights */
   --sembai-bg-light: #f8f9f5;
+  --main-width: 900px;
 }
 
 /* --- Override PaperMod accent color --- */
@@ -25,6 +26,22 @@ a:hover {
 /* --- Navbar branding strip --- */
 .nav {
   border-bottom: 3px solid var(--sembai-green);
+}
+
+.post-content > div {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+  flex-wrap: wrap !important;
+}
+
+.post-content > div img {
+  height: 3em !important;
+  width: auto !important;
+}
+
+.post-content > div h1 {
+  margin: 0 !important;
 }
 
 /* --- Page header badge --- */
@@ -123,6 +140,18 @@ a:hover {
   object-fit: contain;
   filter: grayscale(20%);
   transition: filter 0.2s;
+}
+
+.funder-strip.sponsor-strip img {
+  height: 72px;
+}
+
+.funder-strip a {
+  display: flex;
+  align-items: center;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
 }
 
 .funder-strip img:hover {

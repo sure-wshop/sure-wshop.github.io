@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SuRE @ IJCAI 2026</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sembai-workshop.github.io/</link>
     <description>Recent content on SuRE @ IJCAI 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sembai-workshop.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for Papers</title>
-      <link>http://localhost:1313/cfp/</link>
+      <link>https://sembai-workshop.github.io/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cfp/</guid>
-      <description>Submit your work on sustainable and efficient AI to SembAI @ IJCAI 2026</description>
+      <guid>https://sembai-workshop.github.io/cfp/</guid>
+      <description>Submit your work on sustainable and efficient AI to SuRE @ IJCAI 2026</description>
     </item>
     <item>
       <title>Invited Speakers</title>
-      <link>http://localhost:1313/speakers/</link>
+      <link>https://sembai-workshop.github.io/speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/speakers/</guid>
-      <description>Keynote speakers at SembAI @ IJCAI 2026</description>
+      <guid>https://sembai-workshop.github.io/speakers/</guid>
+      <description>Keynote speakers at SuRE @ IJCAI 2026</description>
     </item>
     <item>
       <title>Organizing Committee</title>
-      <link>http://localhost:1313/organizers/</link>
+      <link>https://sembai-workshop.github.io/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/organizers/</guid>
-      <description>The organizers of SembAI @ IJCAI 2026</description>
+      <guid>https://sembai-workshop.github.io/organizers/</guid>
+      <description>The organizers of SuRE @ IJCAI 2026</description>
     </item>
     <item>
       <title>Program &amp; Schedule</title>
-      <link>http://localhost:1313/schedule/</link>
+      <link>https://sembai-workshop.github.io/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/schedule/</guid>
-      <description>Full-day workshop schedule for SembAI @ IJCAI 2026</description>
+      <guid>https://sembai-workshop.github.io/schedule/</guid>
+      <description>Half-day workshop schedule for SuRE @ IJCAI 2026</description>
     </item>
     <item>
       <title>Program Committee</title>
-      <link>http://localhost:1313/program-committee/</link>
+      <link>https://sembai-workshop.github.io/program-committee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program-committee/</guid>
-      <description>Reviewers and program committee members of SembAI @ IJCAI 2026</description>
+      <guid>https://sembai-workshop.github.io/program-committee/</guid>
+      <description>Reviewers and program committee members of SuRE @ IJCAI 2026</description>
     </item>
   </channel>
 </rss>

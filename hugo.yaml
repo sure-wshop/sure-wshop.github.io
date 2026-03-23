@@ -30,6 +30,11 @@ params:
     - TinyML
     - Edge AI
 
+  label:
+    text: "SuRE @ IJCAI 2026"
+    icon: "img/sure-logo.png"
+    iconHeight: 32px
+
   # --- Social / Links ---
   socialIcons:
     - name: email
@@ -48,7 +53,7 @@ params:
 
   # --- Cover image for social sharing ---
   cover:
-    image: "img/logo.jpg"
+    image: "img/sure-logo.png"
     alt: "SuRE Workshop Logo"
     relative: false
 
@@ -62,9 +67,13 @@ menu:
       name: Call for Papers
       url: /cfp/
       weight: 2
-    - identifier: speakers
-      name: Speakers
-      url: /speakers/
+    # - identifier: speakers
+    #   name: Speakers
+    #   url: /speakers/
+    #   weight: 3
+    - identifier: dates
+      name: Dates
+      url: /#important-dates
       weight: 3
     - identifier: schedule
       name: Schedule

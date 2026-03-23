@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cfp/</loc>
+    <loc>https://sembai-workshop.github.io/cfp/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sembai-workshop.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/speakers/</loc>
+    <loc>https://sembai-workshop.github.io/speakers/</loc>
   </url><url>
-    <loc>http://localhost:1313/organizers/</loc>
+    <loc>https://sembai-workshop.github.io/organizers/</loc>
   </url><url>
-    <loc>http://localhost:1313/schedule/</loc>
+    <loc>https://sembai-workshop.github.io/schedule/</loc>
   </url><url>
-    <loc>http://localhost:1313/program-committee/</loc>
+    <loc>https://sembai-workshop.github.io/program-committee/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sembai-workshop.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sembai-workshop.github.io/tags/</loc>
   </url>
 </urlset>

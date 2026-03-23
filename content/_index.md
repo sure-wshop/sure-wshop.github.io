@@ -3,7 +3,10 @@ title: "SuRE @ IJCAI 2026"
 layout: "home"
 ---
 
-# 1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026
+<div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+  <img src="/img/sure-logo.png" alt="" style="height: 3em; width: auto;">
+  <h1 style="margin: 0;">1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026</h1>
+</div>
 
 <span class="workshop-badge">SuRE Workshop @ IJCAI 2026 · Bremen, Germany</span>
 
@@ -67,11 +70,23 @@ All deadlines are <strong>Anywhere on Earth (AoE)</strong>.
 
 ---
 
+## Sponsored by
+
+This workshop is sponsored by the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/) via the [Sustainable Embedded AI](https://sembai.cs.uni-kl.de/) project.
+
+<div class="funder-strip sponsor-strip">
+  <a href="https://www.carl-zeiss-stiftung.de/" target="_blank"><img src="/img/czs.png" alt="Carl Zeiss Stiftung" title="Carl Zeiss Stiftung"></a>
+  <a href="https://sembai.cs.uni-kl.de/" target="_blank"><img src="/img/sembedai.png" alt="Sustainable Embedded AI" title="Sustainable Embedded AI"></a>
+</div>
+
+---
+
 ## Organized by
 
 <div class="funder-strip">
-  <img src="/img/dfki.png" alt="DFKI – German Research Center for AI" title="DFKI">
-  <img src="/img/rptu.png" alt="RPTU Kaiserslautern-Landau" title="RPTU">
-  <img src="/img/heidelberg.jpg" alt="Heidelberg University" title="Heidelberg University">
-  <img src="/img/korea-uni.jpg" alt="Korea University" title="Korea University">
+  <a href="https://www.dfki.de/" target="_blank"><img src="/img/dfki.png" alt="DFKI – German Research Center for AI" title="DFKI"></a>
+  <a href="https://rptu.de/" target="_blank"><img src="/img/rptu.png" alt="RPTU Kaiserslautern-Landau" title="RPTU"></a>
+  <a href="https://www.uni-heidelberg.de/" target="_blank"><img src="/img/heidelberg.jpg" alt="Heidelberg University" title="Heidelberg University"></a>
+  <a href="https://www.korea.ac.kr/" target="_blank"><img src="/img/korea-uni.jpg" alt="Korea University" title="Korea University"></a>
 </div>
+
