@@ -4,7 +4,7 @@ description: "Submit your work on sustainable and efficient AI to SuRE @ IJCAI 2
 ShowToc: false
 ---
 
-<span class="workshop-badge">Submission Deadline: May 1, 2026</span>
+<span class="workshop-badge">Submission Deadline: May 15, 2026</span>
 
 Recent advances in AI have been driven by rapid scaling of data, models, and compute—but at growing
 energy, resource, and environmental costs that few labs can afford. This workshop focuses on the
@@ -25,6 +25,10 @@ both **powerful and sustainable**.
 - **Edge and embedded deployments**: design, deployment, and evaluation of efficient models in industrial, agricultural, mobility, healthcare, and other real-world environments
 - **Sustainable hardware and materials**: algorithm–hardware co-design, low-power accelerators, environmentally responsible hardware life-cycles
 - **Ethical, socio-economic, and socio-cultural aspects** of sustainable AI: equity of access, environmental justice, governance, and policy implications
+
+<div style="text-align: center; margin: 1.5rem 0;">
+  <a href="#" class="contact-button disabled">Submission Opens Soon</a>
+</div>
 
 ---
 
@@ -61,8 +65,4 @@ All deadlines are <strong>Anywhere on Earth (AoE)</strong>.
 | Notification of acceptance | **June 1, 2026** |
 | Camera-ready deadline | **June 15, 2026** |
 
----
 
-## 🔗 Submission Link
-
-Submissions via **OpenReview** (link to be announced).
