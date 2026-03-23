@@ -65,8 +65,8 @@ description: "The organizers of SuRE @ IJCAI 2026"
 ## 🏛️ Affiliated Institutions
 
 <div class="funder-strip">
-  <img src="/img/dfki.png" alt="DFKI">
-  <img src="/img/rptu.png" alt="RPTU">
-  <img src="/img/heidelberg.jpg" alt="Heidelberg University">
-  <img src="/img/korea-uni.jpg" alt="Korea University">
+  <a href="https://www.dfki.de/" target="_blank"><img src="/img/dfki.png" alt="DFKI"></a>
+  <a href="https://rptu.de/" target="_blank"><img src="/img/rptu.png" alt="RPTU"></a>
+  <a href="https://www.uni-heidelberg.de/" target="_blank"><img src="/img/heidelberg.jpg" alt="Heidelberg University"></a>
+  <a href="https://www.korea.ac.kr/" target="_blank"><img src="/img/korea-uni.jpg" alt="Korea University"></a>
 </div>
