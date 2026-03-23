@@ -1,6 +1,6 @@
 ---
 title: "Program & Schedule"
-description: "Full-day workshop schedule for SembAI @ IJCAI 2026"
+description: "Full-day workshop schedule for SuRE @ IJCAI 2026"
 ---
 
 The workshop is a **full-day event** combining invited keynotes, contributed paper presentations,

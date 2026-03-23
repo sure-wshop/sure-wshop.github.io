@@ -1,6 +1,6 @@
 ---
 title: "Program Committee"
-description: "Reviewers and program committee members of SembAI @ IJCAI 2026"
+description: "Reviewers and program committee members of SuRE @ IJCAI 2026"
 ShowToc: false
 ---
 

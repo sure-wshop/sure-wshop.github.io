@@ -1,6 +1,6 @@
 ---
 title: "Invited Speakers"
-description: "Keynote speakers at SembAI @ IJCAI 2026"
+description: "Keynote speakers at SuRE @ IJCAI 2026"
 ---
 
 ## Confirmed Keynote Speakers

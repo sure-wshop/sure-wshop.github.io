@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-description: "Submit your work on sustainable and efficient AI to SembAI @ IJCAI 2026"
+description: "Submit your work on sustainable and efficient AI to SuRE @ IJCAI 2026"
 ShowToc: true
 TocOpen: true
 ---
