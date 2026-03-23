@@ -1,4 +1,9 @@
 baseURL: "https://sembai-workshop.github.io/"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 title: "SuRE @ IJCAI 2026"
 paginate: 10
 theme: PaperMod
