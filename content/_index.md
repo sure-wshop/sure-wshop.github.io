@@ -3,10 +3,7 @@ title: "SuRE @ IJCAI 2026"
 layout: "home"
 ---
 
-<div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
-  <img src="/img/sure-logo.png" alt="" style="height: 3em; width: auto;">
-  <h1 style="margin: 0;">1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026</h1>
-</div>
+# 1st Workshop on Sustainability and Resource-Efficiency of Artificial Intelligence @ IJCAI 2026
 
 <span class="workshop-badge">SuRE Workshop @ IJCAI 2026 · Bremen, Germany</span>
 

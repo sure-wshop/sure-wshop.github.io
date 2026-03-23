@@ -28,21 +28,7 @@ a:hover {
   border-bottom: 3px solid var(--sembai-green);
 }
 
-.post-content > div {
-  display: flex !important;
-  align-items: center !important;
-  gap: 0.5rem !important;
-  flex-wrap: wrap !important;
-}
 
-.post-content > div img {
-  height: 3em !important;
-  width: auto !important;
-}
-
-.post-content > div h1 {
-  margin: 0 !important;
-}
 
 /* --- Page header badge --- */
 .workshop-badge {
