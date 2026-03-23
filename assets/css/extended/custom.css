@@ -87,6 +87,23 @@ a:hover {
   margin-top: 0.4rem;
 }
 
+.organizer-card .organizer-links {
+  margin-top: 0.6rem;
+  display: flex;
+  gap: 0.8rem;
+  justify-content: center;
+}
+
+.organizer-card .organizer-links a {
+  font-size: 0.75rem;
+  color: #666;
+  text-decoration: none;
+}
+
+.organizer-card .organizer-links a:hover {
+  color: var(--sembai-green);
+}
+
 /* --- Sponsor/funder logo strip --- */
 .funder-strip {
   display: flex;

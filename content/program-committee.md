@@ -22,6 +22,5 @@ We thank the following researchers for serving on the program committee:
 | Paul Lukowicz | DFKI | Embedded Systems, Wearable and Ubiquitous Computing |
 | Vishal Sharbidra Mukunda | RPTU | AI in Agriculture |
 | Shishir Muralidhara | DFKI | Incremental Learning, Segmentation |
-| Tobias Christian Nauen | DFKI & RPTU | Measuring Efficiency in ML, Data-Efficient Training, Multimodal AI |
 | Vladimir Rybalkin | RPTU | Edge/Mobile Deployment, Algorithm-Hardware Co-design |
 | Aheli Saha | RPTU | Neuromorphic Computing |
