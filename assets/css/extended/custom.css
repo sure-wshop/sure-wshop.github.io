@@ -159,6 +159,12 @@ main.main:first-of-type {
   color: white;
 }
 
+/* --- General tables (Markdown) --- */
+.post-content table th,
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+  padding: 0.6rem 1.2rem;
+}
+
 .dates-table tr:nth-child(even) {
   background-color: var(--sembai-bg-light);
 }
@@ -264,7 +270,7 @@ main.main:first-of-type {
 
 .schedule-table td,
 .schedule-table th {
-  padding: 0.7rem 1rem;
+  padding: 0.7rem 1.35rem;
   border: 1px solid #ddd;
   vertical-align: top;
 }
