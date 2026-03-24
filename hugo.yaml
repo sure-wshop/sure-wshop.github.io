@@ -30,6 +30,13 @@ params:
     - TinyML
     - Edge AI
 
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    webmanifest: "/site.webmanifest"
+
   label:
     text: "SuRE @ IJCAI 2026"
     icon: "img/sure-logo.png"
@@ -38,7 +45,7 @@ params:
   # --- Social / Links ---
   socialIcons:
     - name: email
-      url: "mailto:TODO@dfki.de"
+      url: "mailto:sure-organizers@dfki.de"
 
   # --- Color scheme ---
   # Use 'auto', 'light', or 'dark'
