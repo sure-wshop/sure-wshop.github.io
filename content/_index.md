@@ -11,14 +11,15 @@ layout: "home"
 </div>
 <br> 
 
-Recent progress in AI has been driven by rapid scaling of data, models, and compute—most prominently
-in large language and multimodal models. This trend, however, comes with growing energy, resource,
-and environmental costs that are increasingly hard to ignore.
+Recent progress in artificial intelligence has been driven by rapid scaling of data,  models, and compute, most prominently in large language and multimodal models.
+This trend, however, comes with growing energy, resource, and environmental costs that are increasingly hard to ignore.
+At the same time, only a small number of academic and industrial laboratories can afford to train or even routinely deploy cutting-edge large models, creating a growing divide in who can participate in advancing the state of the art.
+Sustainability of AI is therefore not only a matter of preserving natural resources and limiting environmental impact, but also a prerequisite for enabling further iterations, breakthroughs, and broad access to AI technologies.
 
-This workshop focuses on the **sustainability of AI systems** across their lifecycle, with a particular
-emphasis on **data-, compute-, and energy-efficient methods** that scale to real-world deployments.
-We emphasize moving from qualitative discussions of "Green AI" to **quantitative and reproducible
-methodology**, including metrics, benchmarks, and standards.
+This workshop focuses on the sustainability *of* AI systems across their lifecycle, with a particular emphasis on data-, compute-, and energy-efficient methods that scale to real-world deployments.
+We emphasize moving from qualitative discussions of "Green AI" to quantitative and reproducible methodology, including metrics, benchmarks, and standards for measuring efficiency and sustainability (e.g., budgeted performance under compute, energy, or data constraints).
+The workshop will ground these questions in practice through case studies and empirical evaluations of AI in real systems, such as embedded and edge deployments (for example in industrial, agricultural, or healthcare environments).
+By bringing together researchers and practitioners working on methods, metrics, and applications, the workshop aims to chart a roadmap for sustainable AI: Identifying concrete trade-offs, open problems, and shared infrastructure needs that can guide the development of next-generation AI systems that are both powerful and sustainable.
 
 <div style="text-align: center; margin: 1.5rem 0;">
   <div id="countdown"></div>
