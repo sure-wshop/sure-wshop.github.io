@@ -239,7 +239,7 @@ main.main:first-of-type {
 }
 
 .funder-strip img {
-  height: 52px;
+  height: 58px;
   object-fit: contain;
   filter: grayscale(20%);
   transition: filter 0.2s;

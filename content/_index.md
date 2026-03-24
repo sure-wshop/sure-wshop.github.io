@@ -78,7 +78,7 @@ This workshop is sponsored by the [Carl Zeiss Foundation](https://www.carl-zeiss
 <div class="funder-strip">
   <a href="https://www.dfki.de/" target="_blank"><img src="/img/dfki.png" alt="DFKI – German Research Center for AI" title="DFKI"></a>
   <a href="https://rptu.de/" target="_blank"><img src="/img/rptu.png" alt="RPTU Kaiserslautern-Landau" title="RPTU"></a>
-  <a href="https://www.uni-heidelberg.de/" target="_blank"><img src="/img/heidelberg.jpg" alt="Heidelberg University" title="Heidelberg University"></a>
-  <a href="https://www.korea.ac.kr/" target="_blank"><img src="/img/korea-uni.jpg" alt="Korea University" title="Korea University"></a>
+  <a href="https://www.uni-heidelberg.de/" target="_blank"><img src="/img/heidelberg.png" alt="Heidelberg University" title="Heidelberg University"></a>
+  <a href="https://www.korea.ac.kr/" target="_blank"><img src="/img/korea-uni.png" alt="Korea University" title="Korea University"></a>
 </div>
 
