@@ -59,16 +59,6 @@ All deadlines are <strong>Anywhere on Earth (AoE)</strong>.
 
 👉 [Full Call for Papers →](/cfp)
 
-<!-- ## Submission Tracks -->
-<!---->
-<!-- | Track | Length | Purpose | -->
-<!-- |:---|:---:|:---| -->
-<!-- | **Full Papers** | 7 main + 2 ref | Original research | -->
-<!-- | **Short Papers** | 4 main + 1 ref | Work-in-progress | -->
-<!-- | **Position Papers** | 2 main + 1 ref | Visions & open challenges | -->
-<!---->
-<!-- 👉 [Full Call for Papers →](/cfp) -->
-<!---->
 ---
 
 ## Sponsored by
