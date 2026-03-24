@@ -3,6 +3,9 @@ title: "Organizing Committee"
 description: "The organizers of SuRE @ IJCAI 2026"
 ---
 
+Contact us at: [✉️ sure-organizers@dfki.de](mailto:sure-organizers@dfki.de)
+
+
 <div class="organizer-grid">
 
   <div class="organizer-card">
@@ -58,11 +61,7 @@ description: "The organizers of SuRE @ IJCAI 2026"
 
 ---
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="mailto:TODO@dfki.de" class="contact-button">Contact Us</a>
-</div>
-
-## 🏛️ Affiliated Institutions
+## Affiliated Institutions
 
 <div class="funder-strip">
   <a href="https://www.dfki.de/" target="_blank"><img src="/img/dfki.png" alt="DFKI"></a>
