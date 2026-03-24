@@ -1,5 +1,5 @@
 ---
-title: "Program & Schedule"
+title: "Preliminary Program & Schedule"
 description: "Half-day workshop schedule for SuRE @ IJCAI 2026"
 ---
 
@@ -20,11 +20,11 @@ and interactive discussion rounds.
       </td>
     </tr>
     <tr>
-      <td class="time-col">~60 min</td>
+      <td class="time-col">~90 min</td>
       <td><strong>Paper Presentations — Session I</strong></td>
     </tr>
     <tr>
-      <td class="time-col">~45 min</td>
+      <td class="time-col">~30 min</td>
       <td>
         <strong>Position Paper Discussion Round</strong><br>
         <em>Floating group discussions per position paper topic, followed by brief summaries</em>
@@ -44,7 +44,3 @@ and interactive discussion rounds.
     </tr>
   </tbody>
 </table>
-
-> The workshop shares coffee breaks and lunch with the main conference to encourage
-> cross-workshop interaction and informal networking.
-> Exact break times are set by the IJCAI organizers.
