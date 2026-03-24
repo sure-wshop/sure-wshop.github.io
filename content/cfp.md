@@ -64,4 +64,6 @@ All deadlines are <strong>Anywhere on Earth (AoE)</strong>.
 | 📝 Camera-ready deadline | **June 15, 2026** |
 | 🗓️ Workshop day | **August 2026 (TBD)** |
 
+## Contact
+In case of questions, contact us at: [✉️ sure-organizers@dfki.de](mailto:sure-organizers@dfki.de)
 
