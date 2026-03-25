@@ -190,6 +190,15 @@ main.main:first-of-type {
   box-shadow: 0 4px 16px rgba(45, 106, 79, 0.15);
 }
 
+.organizer-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50% !important;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 0.75rem !important;
+}
+
 .organizer-card h3 {
   margin: 0.5rem 0 0.2rem;
   font-size: 1rem;

@@ -9,6 +9,7 @@ Contact us at: [✉️ sure-organizers@dfki.de](mailto:sure-organizers@dfki.de)
 <div class="organizer-grid">
 
   <div class="organizer-card">
+    <img class="organizer-photo" src="/img/organizers/vitor.jpg" alt="Vitor Fortes Rey">
     <h3>Vitor Fortes Rey</h3>
     <div class="affiliation">DFKI & RPTU University Kaiserslautern-Landau</div>
     <div class="interests">Wearable Human Activity Recognition · TinyML</div>
@@ -18,6 +19,7 @@ Contact us at: [✉️ sure-organizers@dfki.de](mailto:sure-organizers@dfki.de)
   </div>
 
   <div class="organizer-card">
+    <img class="organizer-photo" src="/img/organizers/rene.jpg" alt="René Schuster">
     <h3>René Schuster</h3>
     <div class="affiliation">DFKI & RPTU University Kaiserslautern-Landau</div>
     <div class="interests">Continual Learning · Neuromorphic Vision</div>
@@ -28,6 +30,7 @@ Contact us at: [✉️ sure-organizers@dfki.de](mailto:sure-organizers@dfki.de)
   </div>
 
   <div class="organizer-card">
+    <img class="organizer-photo" src="/img/organizers/niklas.jpg" alt="Niklas Baumgarten">
     <h3>Niklas Baumgarten</h3>
     <div class="affiliation">Heidelberg University, Dept. of Mathematics</div>
     <div class="interests">Stochastic Optimization · Hardware-Aware Distributed Computing</div>
@@ -38,6 +41,7 @@ Contact us at: [✉️ sure-organizers@dfki.de](mailto:sure-organizers@dfki.de)
   </div>
 
   <div class="organizer-card">
+    <img class="organizer-photo" src="/img/organizers/sungho.jpg" alt="Sungho Suh">
     <h3>Sungho Suh</h3>
     <div class="affiliation">Korea University</div>
     <div class="interests">Wearable Computing · Vision-Language-Action Models</div>
@@ -48,6 +52,7 @@ Contact us at: [✉️ sure-organizers@dfki.de](mailto:sure-organizers@dfki.de)
   </div>
 
   <div class="organizer-card">
+    <img class="organizer-photo" src="/img/organizers/tobias.jpg" alt="Tobias Christian Nauen">
     <h3>Tobias Christian Nauen</h3>
     <div class="affiliation">DFKI & RPTU University Kaiserslautern-Landau</div>
     <div class="interests">Measuring Efficiency in CV · Data-Efficient Training</div>
