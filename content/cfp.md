@@ -49,7 +49,7 @@ Position papers of up to 2 pages plus 1 page for references (3 pages total). Con
 
 > All submissions must follow the **official SuRE workshop formatting guidelines** and will undergo **double-blind peer review**.
 > Download the author kit for templates and style files: <br>
-> [**sure-author-kit**](https://github.com/sure-wshop/sure-author-kit) &nbsp;·&nbsp; [**Download ZIP**](https://github.com/sure-wshop/sure-author-kit/archive/refs/heads/main.zip)
+> [**On GitHub**](https://github.com/sure-wshop/sure-author-kit) &nbsp;·&nbsp; [**Download as ZIP**](https://github.com/sure-wshop/sure-author-kit/archive/refs/heads/main.zip)
 
 ---
 
