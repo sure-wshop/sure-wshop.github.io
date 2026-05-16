@@ -9,14 +9,14 @@ layout: "home"
     <span class="workshop-badge">SuRE Workshop @ IJCAI 2026, Bremen, Germany</span>
   </div>
 </div>
-<br> 
+<br>
 
-Recent progress in artificial intelligence has been driven by rapid scaling of data,  models, and compute, most prominently in large language and multimodal models.
+Recent progress in artificial intelligence has been driven by rapid scaling of data, models, and compute, most prominently in large language and multimodal models.
 This trend, however, comes with growing energy, resource, and environmental costs that are increasingly hard to ignore.
 At the same time, only a small number of academic and industrial laboratories can afford to train or even routinely deploy cutting-edge large models, creating a growing divide in who can participate in advancing the state of the art.
 Sustainability of AI is therefore not only a matter of preserving natural resources and limiting environmental impact, but also a prerequisite for enabling further iterations, breakthroughs, and broad access to AI technologies.
 
-This workshop focuses on the sustainability *of* AI systems across their lifecycle, with a particular emphasis on data-, compute-, and energy-efficient methods that scale to real-world deployments.
+This workshop focuses on the sustainability _of_ AI systems across their lifecycle, with a particular emphasis on data-, compute-, and energy-efficient methods that scale to real-world deployments.
 We emphasize moving from qualitative discussions of "Green AI" to quantitative and reproducible methodology, including metrics, benchmarks, and standards for measuring efficiency and sustainability (e.g., budgeted performance under compute, energy, or data constraints).
 The workshop will ground these questions in practice through case studies and empirical evaluations of AI in real systems, such as embedded and edge deployments (for example in industrial, agricultural, or healthcare environments).
 By bringing together researchers and practitioners working on methods, metrics, and applications, the workshop aims to chart a roadmap for sustainable AI: Identifying concrete trade-offs, open problems, and shared infrastructure needs that can guide the development of next-generation AI systems that are both powerful and sustainable.
@@ -27,7 +27,7 @@ By bringing together researchers and practitioners working on methods, metrics, 
 </div>
 
 <script>
-const deadline = new Date("2026-05-15T23:59:59-12:00").getTime();
+const deadline = new Date("2026-05-22T23:59:59-12:00").getTime();
 const el = document.getElementById("countdown");
 function update() {
   const now = Date.now();
@@ -48,15 +48,16 @@ setInterval(update, 1000);
 ## Important Dates
 
 <div class="deadline-alert">
+We have shifted the deadlines by <strong>1 week</strong>.<br>
 All deadlines are <strong>Anywhere on Earth (AoE)</strong>.
 </div>
 
-| Milestone | Date |
-|---|---|
-| 📄 Submission deadline (all tracks) | **May 15, 2026** |
-| 📬 Notification of acceptance | **June 1, 2026** |
-| 📝 Camera-ready deadline | **June 15, 2026** |
-| 🗓️ Workshop day | **August 2026 (TBD)** |
+| Milestone                           | Date                                |
+| ----------------------------------- | ----------------------------------- |
+| 📄 Submission deadline (all tracks) | ~~May 15, 2026~~ **May 22, 2026**   |
+| 📬 Notification of acceptance       | ~~June 1, 2026~~ **June 8, 2026**   |
+| 📝 Camera-ready deadline            | ~~June 15, 2026~~ **June 22, 2026** |
+| 🗓️ Workshop day                     | **August 2026 (TBD)**               |
 
 👉 [Full Call for Papers →](/cfp)
 
@@ -81,4 +82,3 @@ This workshop is sponsored by the [Carl Zeiss Foundation](https://www.carl-zeiss
   <a href="https://www.uni-heidelberg.de/" target="_blank"><img src="/img/heidelberg.png" alt="Heidelberg University" title="Heidelberg University"></a>
   <a href="https://www.korea.ac.kr/" target="_blank"><img src="/img/korea-uni.png" alt="Korea University" title="Korea University"></a>
 </div>
-
