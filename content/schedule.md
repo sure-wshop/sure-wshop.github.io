@@ -3,7 +3,7 @@ title: "Preliminary Program & Schedule"
 description: "Half-day workshop schedule for SuRE @ IJCAI 2026"
 ---
 
-The workshop is a **half-day event** combining invited keynotes, contributed paper presentations,
+The workshop is a **half-day event** on **August 17th** combining invited keynotes, contributed paper presentations,
 and interactive discussion rounds.
 
 <table class="schedule-table">
