@@ -15,7 +15,7 @@ and interactive discussion rounds.
       <td class="time-col">~30 min</td>
       <td>
         <strong>Keynote I</strong><br>
-        Prof. Dr. Paul Lukowicz — DFKI, Germany<br>
+        Prof. Dr. Norbert Wehn — RPTU University, Germany<br>
         <em>Title TBD</em>
       </td>
     </tr>
