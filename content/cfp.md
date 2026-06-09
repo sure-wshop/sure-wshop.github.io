@@ -33,9 +33,9 @@ Topics of interest cover all aspects of efficient and sustainable AI including, 
 
 ## Submission Tracks
 
-### Full Papers _(Archival, PMLR Proceedings)_
+### Full Papers _(Archival)_
 
-Original research papers of up to 7 pages for the main content, plus up to 2 additional pages for references (9 pages total). Accepted full papers will be published in a dedicated volume of the _Proceedings of Machine Learning Research (PMLR)_.
+Original research papers of up to 7 pages for the main content, plus up to 2 additional pages for references (9 pages total). Proceedings shall be submitted to [CEUR-WS.org](https://ceur-ws.org/) for online publication.
 
 **Acceptance Criteria:** Novelty and relevance to efficient and sustainable AI, technical soundness and appropriate methodology (including evaluation), potential impact, as well as clarity and quality of presentation.
 
