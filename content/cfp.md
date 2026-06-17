@@ -51,14 +51,15 @@ Position papers of up to 2 pages plus 1 page for references (3 pages total). Con
 
 **Acceptance Criteria:** Originality and thought-provoking perspectives, a well-argued and clearly articulated position grounded in relevant literature or practice, potential to catalyze discussion.
 
-> All submissions must follow the **official SuRE workshop formatting guidelines** and will undergo **double-blind peer review**.
-> Download the author kit for templates and style files: <br>
-> [**On GitHub**](https://github.com/sure-wshop/sure-author-kit) &nbsp;·&nbsp; [**Download as ZIP**](https://github.com/sure-wshop/sure-author-kit/archive/refs/heads/main.zip)
-
 <div class="deadline-alert">
 Camera-ready submissions use a different template. Authors of long and short papers (not of position papers) can decide to opt in to archival publication which we are intending to do via <a href="https://ceur-ws.org">CEUR-WS</a>. For archival publications authors have to fill the ceur author agreement (in the same repository). <br>
 Camera-ready files: <a href="https://github.com/sure-wshop/sure-2026-camera-ready">On GitHub</a> &nbsp;·&nbsp; <a href="https://github.com/sure-wshop/sure-2026-camera-ready/archive/refs/heads/main.zip">Download as ZIP</a>
 </div>
+
+> All submissions must follow the **official SuRE workshop formatting guidelines** and will undergo **double-blind peer review**.
+
+<!-- > Download the author kit for templates and style files: <br> -->
+<!-- > [**On GitHub**](https://github.com/sure-wshop/sure-author-kit) &nbsp;·&nbsp; [**Download as ZIP**](https://github.com/sure-wshop/sure-author-kit/archive/refs/heads/main.zip) -->
 
 ---
 
