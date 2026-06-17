@@ -23,21 +23,21 @@ By bringing together researchers and practitioners working on methods, metrics, 
 
 <div style="text-align: center; margin: 1.5rem 0;">
   <div id="countdown"></div>
-  <a href="/cfp" class="contact-button">Submit Your Paper</a>
+  <a href="/cfp" class="contact-button">Call for Papers</a>
 </div>
 
 <script>
-const deadline = new Date("2026-05-22T23:59:59-12:00").getTime();
+const deadline = new Date("2026-08-17T09:00:00+02:00").getTime();
 const el = document.getElementById("countdown");
 function update() {
   const now = Date.now();
   const diff = deadline - now;
-  if (diff <= 0) { el.innerHTML = "<span class=\"countdown-label\">Submission deadline has passed</span>"; return; }
+  if (diff <= 0) { el.innerHTML = "<span class=\"countdown-label\">The workshop has started! 🎉</span>"; return; }
   const d = Math.floor(diff / 86400000);
   const h = Math.floor((diff % 86400000) / 3600000);
   const m = Math.floor((diff % 3600000) / 60000);
   const s = Math.floor((diff % 60000) / 1000);
-  el.innerHTML = "<span class=\"countdown-label\">Submission deadline:</span> " + d + "d " + h + "h " + m + "m " + s + "s";
+  el.innerHTML = "<span class=\"countdown-label\">Workshop starts in:</span> " + d + "d " + h + "h " + m + "m " + s + "s";
 }
 update();
 setInterval(update, 1000);
