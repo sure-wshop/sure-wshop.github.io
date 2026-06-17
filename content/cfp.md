@@ -68,7 +68,7 @@ All deadlines are <strong>Anywhere on Earth (AoE)</strong>.
 | ----------------------------------- | ----------------------------------- |
 | 📄 Submission deadline (all tracks) | ~~May 15, 2026~~ **May 22, 2026**   |
 | 📬 Notification of acceptance       | ~~June 1, 2026~~ **June 8, 2026**   |
-| 📝 Camera-ready deadline            | ~~June 15, 2026~~ **June 22, 2026** |
+| 📝 Camera-ready deadline            | ~~June 15, 2026~~ **June 30, 2026** |
 | 🗓️ Workshop day                     | **August 17, 2026**                 |
 
 ## Contact
