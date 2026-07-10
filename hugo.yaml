@@ -4,6 +4,16 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - ["\\[", "\\]"]
+            - ["$$", "$$"]
+          inline:
+            - ["\\(", "\\)"]
+            - ["$", "$"]
 title: "SuRE @ IJCAI 2026"
 paginate: 10
 theme: PaperMod
@@ -78,13 +88,13 @@ menu:
     #   name: Speakers
     #   url: /speakers/
     #   weight: 3
-    - identifier: dates
-      name: Dates
-      url: /#important-dates
-      weight: 3
     - identifier: schedule
       name: Schedule
       url: /schedule/
+      weight: 3
+    - identifier: accepted-papers
+      name: Accepted Papers
+      url: /accepted-papers/
       weight: 4
     - identifier: organizers
       name: Organizers
