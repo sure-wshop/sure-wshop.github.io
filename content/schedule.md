@@ -80,7 +80,7 @@ The coffee break slot is set by the conference and may shift.
       <td class="time-col">5 min</td>
       <td>
         <strong>Closing Remarks</strong><br>
-        <em>including the Best Paper Award 🏆</em>
+        <em>including the Best Paper Award</em> 🏆
       </td>
     </tr>
   </tbody>
