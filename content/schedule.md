@@ -23,7 +23,7 @@ The coffee break slot is set by the conference and may shift.
       <td class="time-col">35 min</td>
       <td>
         <strong>Keynote</strong><br>
-        Prof. Dr. Norbert Wehn — RPTU University, Germany<br>
+        Prof. Dr. Norbert Wehn <a href="https://eit.rptu.de/en/staff/norbert-wehn" aria-label="Norbert Wehn's website">🌐</a> — RPTU University, Germany<br>
         <em>Title TBD</em>
       </td>
     </tr>
