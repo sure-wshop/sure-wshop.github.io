@@ -28,6 +28,30 @@ a:hover {
   border-bottom: 3px solid var(--sembai-green);
 }
 
+/* Once title + menu no longer fit on one line (~nav-width), go straight to
+   the centered stacked layout — skip PaperMod's left-aligned wrapped state. */
+@media (max-width: 1050px) {
+  .nav {
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.4;
+    padding-block: 8px;
+  }
+
+  .logo {
+    margin: 6px auto;
+  }
+
+  #menu {
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow-x: visible;
+    white-space: normal;
+    margin: 6px auto;
+    row-gap: 4px;
+  }
+}
+
 /* --- Hero Banner --- */
 .hero-banner {
   width: 100%;
@@ -298,6 +322,53 @@ main.main:first-of-type {
 
 .schedule-table tr:nth-child(even) {
   background-color: var(--sembai-bg-light);
+}
+
+.schedule-table .paper-list {
+  margin: 0.4rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.schedule-table .paper-list li {
+  margin: 0.15rem 0;
+}
+
+/* --- Accepted papers list --- */
+.paper-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+
+.paper-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.2rem 1.4rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  scroll-margin-top: 5rem;
+}
+
+.paper-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05rem;
+  color: var(--sembai-slate);
+}
+
+.paper-card .paper-authors {
+  font-size: 0.85rem;
+  color: var(--sembai-green);
+  margin-bottom: 0.5rem;
+}
+
+.paper-card .paper-abstract {
+  font-size: 0.9rem;
+  color: #444;
+  margin: 0;
+}
+
+.paper-card .paper-abstract p {
+  margin: 0;
 }
 
 /* --- Deadline countdown highlight --- */
