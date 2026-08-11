@@ -24,7 +24,7 @@ The coffee break slot is set by the conference and may shift.
       <td>
         <strong>Keynote</strong><br>
         Prof. Dr. Norbert Wehn <a href="https://eit.rptu.de/en/staff/norbert-wehn" aria-label="Norbert Wehn's website">🌐</a> — RPTU University, Germany<br>
-        <em>Title TBD</em>
+        <em>"It’s all about Energy Efficiency - A memory perspective on AI"</em>
       </td>
     </tr>
     <tr>
