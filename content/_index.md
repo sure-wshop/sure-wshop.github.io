@@ -65,11 +65,12 @@ All deadlines are <strong>Anywhere on Earth (AoE)</strong>.
 
 ## Sponsored by
 
-This workshop is sponsored by the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/) via the [Sustainable Embedded AI](https://sembai.cs.uni-kl.de/) project.
+This workshop is sponsored by the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/) via the [Sustainable Embedded AI](https://sembai.cs.uni-kl.de/) project. The workshop is supported by [PwC Germany](https://www.pwc.de/).
 
 <div class="funder-strip sponsor-strip">
   <a href="https://www.carl-zeiss-stiftung.de/" target="_blank"><img src="/img/czs.png" alt="Carl Zeiss Stiftung" title="Carl Zeiss Stiftung"></a>
   <a href="https://sembai.cs.uni-kl.de/" target="_blank"><img src="/img/sembedai.png" alt="Sustainable Embedded AI" title="Sustainable Embedded AI"></a>
+  <a href="https://www.pwc.com/" target="_blank"><img src="/img/pwc-logo.png" alt="PwC" title="PwC"></a>
 </div>
 
 ---
