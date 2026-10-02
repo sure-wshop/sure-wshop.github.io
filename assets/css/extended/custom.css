@@ -458,3 +458,58 @@ main.main:first-of-type {
   font-size: 0.8rem;
   font-weight: 700;
 }
+
+/* --- Cite button + BibTeX modal --- */
+.paper-card .paper-cite {
+  background: none;
+  color: var(--sembai-green);
+  font-family: inherit;
+  cursor: pointer;
+}
+
+#cite-modal {
+  width: min(720px, 92vw);
+  border: none;
+  border-radius: 8px;
+  padding: 1.2rem;
+  margin: auto;
+  background: var(--entry);
+  color: var(--primary);
+}
+
+#cite-modal::backdrop {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#cite-modal pre {
+  margin: 0 0 1rem;
+  padding: 1rem;
+  font-size: 0.8rem;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+.cite-actions {
+  display: flex;
+  gap: 0.6rem;
+  justify-content: flex-end;
+}
+
+.cite-actions button {
+  padding: 0.4rem 1.2rem;
+  border-radius: 4px;
+  background: var(--sembai-green);
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.cite-actions button:hover {
+  background: var(--sembai-green-light);
+}
+
+.cite-actions button[data-act="close"] {
+  background: none;
+  color: var(--sembai-green);
+  border: 1px solid var(--sembai-green);
+}
