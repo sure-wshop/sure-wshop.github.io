@@ -23,7 +23,7 @@ By bringing together researchers and practitioners working on methods, metrics, 
 
 <div style="text-align: center; margin: 1.5rem 0;">
   <div id="countdown"></div>
-  <a href="/cfp" class="contact-button">Call for Papers</a>
+  <a href="https://ceur-ws.org/Vol-4275/" target="_blank" class="contact-button">📚 Read the Proceedings</a>
 </div>
 
 <script>

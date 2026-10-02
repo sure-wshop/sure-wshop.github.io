@@ -26,7 +26,7 @@ Topics of interest cover all aspects of efficient and sustainable AI including, 
 - **Ethical, socio-economic, and socio-cultural aspects** of sustainable AI, such as equity of access, environmental justice, governance, and policy implications
 
 <div style="text-align: center; margin: 1.5rem 0;">
-  <a href="https://openreview.net/group?id=ijcai.org/IJCAI-ECAI/2026/Workshop/SuRE" class="contact-button">Submit Your Paper</a>
+  <a href="https://ceur-ws.org/Vol-4275/" target="_blank" class="contact-button">📚 Read the Proceedings</a>
 </div>
 
 ---

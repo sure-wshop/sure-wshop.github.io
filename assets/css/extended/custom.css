@@ -429,3 +429,32 @@ main.main:first-of-type {
   background: #999 !important;
   transform: none;
 }
+
+/* --- Accepted papers: PDF link + award --- */
+.paper-card .paper-pdf {
+  display: inline-block;
+  margin-bottom: 0.6rem;
+  padding: 0.25rem 0.8rem;
+  border: 1px solid var(--sembai-green);
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: none;
+}
+
+.paper-card .paper-pdf:hover {
+  background: var(--sembai-green);
+  color: white;
+}
+
+.award-badge {
+  display: inline-block;
+  margin: 0 0 0.6rem 0.5rem;
+  padding: 0.2rem 0.7rem;
+  border-radius: 4px;
+  background: var(--sembai-accent);
+  color: var(--sembai-slate);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
